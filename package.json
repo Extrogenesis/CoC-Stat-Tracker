@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Extrogenesis/CoC-Stat-Tracker/issues"
   },
-  "homepage": "https://github.com/Extrogenesis/CoC-Stat-Tracker#readme"
+  "homepage": "https://github.com/Extrogenesis/CoC-Stat-Tracker#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
